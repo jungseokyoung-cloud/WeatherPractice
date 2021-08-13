@@ -13,6 +13,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         print("호출")
+        print("정진이는 엄마가 없어요")
         // Do any additional setup after loading the view.
     }
 
